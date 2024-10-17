@@ -1,0 +1,11 @@
+npm install --save mongoose
+npm install express body-parser --save
+
+npm install jsonwebtoken --save
+npm install formidable --save
+
+npm install connect-multiparty --save
+
+
+npm install ngx-countdown-timer --save
+npm install ngx-countdown-timer
